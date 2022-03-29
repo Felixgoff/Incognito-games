@@ -4,4 +4,3 @@
 .smc filter=lfs diff=lfs merge=lfs -text
 .md filter=lfs diff=lfs merge=lfs -text
 .json filter=lfs diff=lfs merge=lfs -text
-encoding: UTF-8
